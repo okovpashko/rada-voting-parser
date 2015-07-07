@@ -1,0 +1,18 @@
+{
+  "name": "rada-voting-parser",
+  "version": "1.0.0",
+  "description": "Parser for vitong results on rada.gov.ua",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oleksandr Kovpashko",
+  "license": "MIT",
+  "dependencies": {
+    "babel": "^5.6.14",
+    "iconv-lite": "^0.4.11",
+    "jsdom": "^5.5.0",
+    "lodash": "^3.10.0",
+    "request": "^2.58.0"
+  }
+}
